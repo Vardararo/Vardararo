@@ -18,7 +18,7 @@
 ### 📫 Connect with Me
 
 -   [LinkedIn](https://www.linkedin.com/in/edib-hafizovic-5514b9158/)
--   Email: edib.hafizovic@hotmail.com
+-   Email: edib.hafizovic@gmail.com
 
 <!---
 Vardararo/Vardararo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
