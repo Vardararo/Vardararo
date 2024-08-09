@@ -5,15 +5,17 @@
 
 -   💻 I primarily work with **Python**
 -   📊 I also have experience with **SQL** and **R** languages.
--   🌱 Currently, I'm learning and experimenting with new technologies and tools in the data science and machine learning domains.
+-   🌱 Currently, I'm learning and experimenting with new technologies and tools in the data science and machine learning domains, as well as further elevating my knowledge in the web development domain.
   
 ### 🛠️ Skills
 
 -   **Programming Languages:** Python, SQL, R
--   **Web Development:** Flask
--   **Data Analysis:** Pandas, NumPy, Scikit-learn, R
+-   **Web Development:** Flask, Jinja2
+-   **Data Analysis:** Pandas, Polars, Scikit-learn, Plotly, R
 -   **Web Scraping and Automation:** BeautifulSoup, Selenium
 -   **Databases:** PostgreSQL, SQLite, MySQL
+-   **Version Control:** Git
+-   **Containerization:** Docker
 
 ### 📫 Connect with Me
 
