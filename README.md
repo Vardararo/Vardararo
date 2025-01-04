@@ -3,6 +3,10 @@
 
    💻 I primarily work with **Python**, as well as with **SQL** and **R** languages.  
    📊 Continuously learning new technologies and tools in the data analysis/visualization and machine learning domains, as well as further elevating my knowledge in the web development domain.  
+   &nbsp;  
+   👨‍🎓 Education:  
+      - B.Sc. in Information Technology, International Burch University  
+      - M.Sc. in Information Technology (Data Science), International Burch University - **awaiting thesis defense*
    &nbsp;
   
 ### 🛠️ Tools of Trade  
